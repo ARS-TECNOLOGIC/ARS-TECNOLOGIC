@@ -1,7 +1,7 @@
 ### Bem Vindo! 👋
 
 
-
+![img](https://github-readme-stats.vercel.app/api?username=ARS-TECNOLOGIC&theme=algolia&show_icons=true)
 
 
 <!--

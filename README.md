@@ -1,9 +1,13 @@
 ### Bem Vindo! 👋
 
-
-![img](https://github-readme-stats.vercel.app/api?username=ARS-TECNOLOGIC&theme=algolia&show_icons=true)
-
-
+<div>
+<img style="flex:1;height:180px" src="https://github-readme-stats.vercel.app/api?username=ARS-TECNOLOGIC&theme=algolia&show_icons=true" />
+<img style="flex:1; height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=algolia&layout=compact" />
+</div>  
+                                                                                                         
+                                                                                                                                               
+                                                                                                                                            
+                                                                                                                                               
 <!--
 **ARS-TECNOLOGIC/ARS-TECNOLOGIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
